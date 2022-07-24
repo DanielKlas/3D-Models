@@ -9,5 +9,5 @@ This was my first week of learning Blender 2.79 in my spare time.
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/gas_mask_1.png)
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/gas_mask_2.png)
 
-#Low-poly Revolver inspired by Nagant M1895
+#Revolver inspired by Nagant M1895
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/nagant_revolver.png)
