@@ -12,5 +12,5 @@ First attempt at texturing and materials
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/gas_mask_2.png)
 
 # Revolver inspired by Nagant M1895
-Speedrun attempt at: 27 min 58 sec
+Speedrun attempt result: 27 min 58 sec
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/nagant_revolver.png)
