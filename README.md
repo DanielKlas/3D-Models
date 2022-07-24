@@ -17,3 +17,4 @@ First attempt at texturing and materials
 Speedrun attempt result: 27 min 58 sec
 
 ![alt text](https://github.com/DanielKlas/3D-Models/blob/main/nagant_revolver.png)
+![alt text](https://github.com/DanielKlas/3D-Models/blob/main/nagant_revolver_2.png)
